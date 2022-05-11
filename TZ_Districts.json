@@ -1,0 +1,607 @@
+{
+    "country_name": "Tanzania",
+    "regions": [
+        {
+            "region_name": "Dar-es-Salaam",
+            "districts": [
+                {
+                    "district_name": "Kinondoni"
+                },
+                {
+                    "district_name": "Ilala"
+                },
+                {
+                    "district_name": "Temeke"
+                },
+                {
+                    "district_name": "Ubongo"
+                },
+                {
+                    "district_name": "Kigamboni"
+                }
+            ]
+        },
+        {
+            "region_name": "Arusha",
+            "districts": [
+                {
+                    "district_name": "Arumeru"
+                },
+                {
+                    "district_name": "Arusha"
+                },
+                {
+                    "district_name": "Karatu"
+                },
+                {
+                    "district_name": "Longido"
+                },
+                {
+                    "district_name": "Monduli"
+                },
+                {
+                    "district_name": "Ngorongoro"
+                }
+            ]
+        },
+        {
+            "region_name": "Dodoma",
+            "districts": [
+                {
+                    "district_name": "Bahi"
+                },
+                {
+                    "district_name": "Chamwino"
+                },
+                {
+                    "district_name": "Chemba"
+                },
+                {
+                    "district_name": "Kondoa"
+                },
+                {
+                    "district_name": "Kongwa"
+                },
+                {
+                    "district_name": "Mpwapwa"
+                },
+                {
+                    "district_name": "Dodoma Mjini"
+                }
+            ]
+        },
+        {
+            "region_name": "Geita",
+            "districts": [
+                {
+                    "district_name": "Bukombe"
+                },
+                {
+                    "district_name": "Chato"
+                },
+                {
+                    "district_name": "Geita"
+                },
+                {
+                    "district_name": "Mbogwe"
+                },
+                {
+                    "district_name": "Nyang'hwale"
+                }
+            ]
+        },
+        {
+            "region_name": "Iringa",
+            "districts": [
+                {
+                    "district_name": "Iringa"
+                },
+                {
+                    "district_name": "Kilolo"
+                },
+                {
+                    "district_name": "Mufindi"
+                }
+            ]
+        },
+        {
+            "region_name": "Kigoma",
+            "districts": [
+                {
+                    "district_name": "Kibondo"
+                },
+                {
+                    "district_name": "Kigoma"
+                },
+                {
+                    "district_name": "Kakonko"
+                },
+                {
+                    "district_name": "Kasulu"
+                },
+                {
+                    "district_name": "Uvinza"
+                },
+                {
+                    "district_name": "Buhigwe"
+                }
+            ]
+        },
+        {
+            "region_name": "Kilimanjaro",
+            "districts": [
+                {
+                    "district_name": "Hai"
+                },
+                {
+                    "district_name": "Moshi"
+                },
+                {
+                    "district_name": "Mwanga"
+                },
+                {
+                    "district_name": "Same"
+                },
+                {
+                    "district_name": "Rombo"
+                },
+                {
+                    "district_name": "Siha"
+                }
+            ]
+        },
+        {
+            "region_name": "Lindi",
+            "districts": [
+                {
+                    "district_name": "Kilwa"
+                },
+                {
+                    "district_name": "Lindi"
+                },
+                {
+                    "district_name": "Liwale"
+                },
+                {
+                    "district_name": "Nachingwea"
+                },
+                {
+                    "district_name": "Ruangwa"
+                }
+            ]
+        },
+        {
+            "region_name": "Mbeya",
+            "districts": [
+                {
+                    "district_name": "Mbeya"
+                },
+                {
+                    "district_name": "Chunya"
+                },
+                {
+                    "district_name": "Mbarali"
+                },
+                {
+                    "district_name": "Rungwe"
+                },
+                {
+                    "district_name": "Kyela"
+                }
+            ]
+        },
+        {
+            "region_name": "Mara",
+            "districts": [
+                {
+                    "district_name": "Musoma"
+                },
+                {
+                    "district_name": "Butiama"
+                },
+                {
+                    "district_name": "Bunda"
+                },
+                {
+                    "district_name": "Rorya"
+                },
+                {
+                    "district_name": "Tarime"
+                },
+                {
+                    "district_name": "Serengeti"
+                }
+            ]
+        },
+        {
+            "region_name": "Mtwara",
+            "districts": [
+                {
+                    "district-name": "Mtawara"
+                },
+                {
+                    "district-name": "Newala"
+                },
+                {
+                    "district-name": "Tandahimba"
+                },
+                {
+                    "district-name": "Masasi"
+                },
+                {
+                    "district-name": "Nanyumbu"
+                }
+            ]
+        },
+        {
+            "region_name": "Mwanza",
+            "districts": [
+                {
+                    "district_name": "Ilemela"
+                },
+                {
+                    "district_name": "Nyamagana"
+                },
+                {
+                    "district_name": "Magu"
+                },
+                {
+                    "district_name": "Misungwi"
+                },
+                {
+                    "district_name": "Kwimba"
+                },
+                {
+                    "district_name": "Sengerema"
+                },
+                {
+                    "district_name": "Ukerewe"
+                }
+            ]
+        },
+        {
+            "region_name": "Morogoro",
+            "districts": [
+                {
+                    "district_name": "Morogoro"
+                },
+                {
+                    "district_name": "Mvomero"
+                },
+                {
+                    "district_name": "Gairo"
+                },
+                {
+                    "district_name": "Kilosa"
+                },
+                {
+                    "district_name": "Kilombero"
+                },
+                {
+                    "district_name": "Ulanga"
+                },
+                {
+                    "district_name": "Malinyi"
+                }
+            ]
+        },
+        {
+            "region_name": "Kagera",
+            "districts": [
+                {
+                    "district_name": "Bukoba"
+                },
+                {
+                    "district_name": "Biharamulo"
+                },
+                {
+                    "district_name": "Karagwe"
+                },
+                {
+                    "district_name": "Kyerwa"
+                },
+                {
+                    "district_name": "Missenyi"
+                },
+                {
+                    "district_name": "Muleba"
+                },
+                {
+                    "district_name": "Ngara"
+                }
+            ]
+        },
+        {
+            "region_name": "Manyara",
+            "districts": [
+                {
+                    "district_name": "Babati"
+                },
+                {
+                    "district_name": "Mbulu"
+                },
+                {
+                    "district_name": "Hanang"
+                },
+                {
+                    "district_name": "Kiteto"
+                },
+                {
+                    "district_name": "Simanjiro"
+                }
+            ]
+        },
+        {
+            "region_name": "Katavi",
+            "districts": [
+                {
+                    "district_name": "Mpanda"
+                },
+                {
+                    "district_name": "Milele"
+                },
+                {
+                    "district_name": "Tanganyika"
+                }
+            ]
+        },
+        {
+            "region_name": "Pwani",
+            "districts": [
+                {
+                    "district_name": "Kibaha"
+                },
+                {
+                    "district_name": "Bagamoyo"
+                },
+                {
+                    "district_name": "Mafia"
+                },
+                {
+                    "district_name": "Kisarawe"
+                },
+                {
+                    "district_name": "Mkuranga"
+                },
+                {
+                    "district_name": "Rufiji"
+                },
+                {
+                    "district_name": "Kibiti"
+                }
+            ]
+        },
+        {
+            "region_name": "Ruvuma",
+            "districts": [
+                {
+                    "district_name": "Songea"
+                },
+                {
+                    "district_name": "Mbinga"
+                },
+                {
+                    "district_name": "Nyasa"
+                },
+                {
+                    "district_name": "Tunduru"
+                },
+                {
+                    "district_name": "Nantumbo"
+                }
+            ]
+        },
+        {
+            "region_name": "Rukwa",
+            "districts": [
+                {
+                    "district_name": "Sumbawanga"
+                },
+                {
+                    "district_name": "Nkasi"
+                },
+                {
+                    "district_name": "Kalambo"
+                }
+            ]
+        },
+        {
+            "region_name": "Shinyanga",
+            "districts": [
+                {
+                    "district_name": "Shinyanga"
+                },
+                {
+                    "district_name": "Kahams"
+                },
+                {
+                    "district_name": "Kishapu"
+                }
+            ]
+        },
+        {
+            "region_name": "Simiyu",
+            "districts": [
+                {
+                    "district_name": "Bariadi"
+                },
+                {
+                    "district_name": "Busenga"
+                },
+                {
+                    "district_name": "Itilima"
+                },
+                {
+                    "district_name": "Maswa"
+                },
+                {
+                    "district_name": "Meatu"
+                }
+            ]
+        },
+        {
+            "region_name": "Songwe",
+            "districts": [
+                {
+                    "district_name": "Mbozi"
+                },
+                {
+                    "district_name": "Songwe"
+                },
+                {
+                    "district_name": "Momba"
+                },
+                {
+                    "district_name": "Ileje"
+                }
+            ]
+        },
+        {
+            "region_name": "Tanga",
+            "districts": [
+                {
+                    "district_name": "Tanga"
+                },
+                {
+                    "district_name": "Pangani"
+                },
+                {
+                    "district_name": "Mkinga"
+                },
+                {
+                    "district_name": "Muheza"
+                },
+                {
+                    "district_name": "Korogwe"
+                },
+                {
+                    "district_name": "Handeni"
+                },
+                {
+                    "district_name": "Kilindi"
+                },
+                {
+                    "district_name": "Lushoto"
+                }
+            ]
+        },
+        {
+            "region_name": "Tabora",
+            "districts": [
+                {
+                    "district_name": "Tabora"
+                },
+                {
+                    "district_name": "Urambo"
+                },
+                {
+                    "district_name": "Igunga"
+                },
+                {
+                    "district_name": "Uyui"
+                },
+                {
+                    "district_name": "Kaliua"
+                },
+                {
+                    "district_name": "Sikonge"
+                },
+                {
+                    "district_name": "Nzega"
+                }
+            ]
+        },
+        {
+            "region_name": "Njombe",
+            "districts": [
+                {
+                    "district_name": "Njombe"
+                },
+                {
+                    "district_name": "Wanging'ombe"
+                },
+                {
+                    "district_name": "Makete"
+                },
+                {
+                    "district_name": "Ludewa"
+                }
+            ]
+        },
+        {
+            "region_name": "Singida",
+            "districts": [
+                {
+                    "district_name": "Ikungi"
+                },
+                {
+                    "district_name": "Iramba"
+                },
+                {
+                    "district_name": "Manyoni"
+                },
+                {
+                    "district_name": "Mkalama"
+                },
+                {
+                    "district_name": "Singida"
+                }
+            ]
+        },
+        {
+            "region_name": "Kaskazini Unguja",
+            "districts": [
+                {
+                    "district_name": "Kaskazini A"
+                },
+                {
+                    "district_name": "Kaskazini B"
+                }
+            ]
+        },
+        {
+            "region_name": "Kusini Unguja",
+            "districts": [
+                {
+                    "district_name": "Kati"
+                },
+                {
+                    "district_name": "Kusini"
+                }
+            ]
+        },
+        {
+            "region_name": "Mjini Magharibi",
+            "districts": [
+                {
+                    "district_name": "Mjini"
+                },
+                {
+                    "district_name": "Magharibi"
+                }
+            ]
+        },
+        {
+            "region_name": "Kaskazini Pemba",
+            "districts": [
+                {
+                    "district_name": "Micheweni"
+                },
+                {
+                    "district_name": "Wete"
+                }
+            ]
+        },
+        {
+            "region_name": "Kusini Pemba",
+            "districts": [
+                {
+                    "district_name": "Chake Chake"
+                },
+                {
+                    "district_name": "Mkoani"
+                }
+            ]
+        }
+    ]
+}
